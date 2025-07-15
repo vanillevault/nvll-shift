@@ -92,7 +92,7 @@ Shift: 7
 
 🧩 Autor
 
-Desarrollado por Vanille para operaciones de nodo oculto, defensa, evasión y mensajería segura en entornos observados.
+Desarrollado por Vanille para operaciones, defensa, evasión y mensajería segura en entornos observados.
 
 
 ---
