@@ -1,4 +1,4 @@
-u# 🕵️‍♂️ NVLL-SHIFT — Sistema de Cifrado NodeSpectre
+# 🕵️‍♂️ NVLL-SHIFT — Sistema de Cifrado NodeSpectre
 
 **NVLL-SHIFT** es un sistema de cifrado ligero, táctico y personalizable, creado por Vanille para proteger comunicaciones sensibles dentro del entorno operativo de **NodeSpectre**.  
 Inspirado en cifrados tipo César, pero adaptado con lógica de alfabeto dinámico y desplazamientos inteligentes.
